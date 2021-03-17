@@ -4,4 +4,4 @@ title: Welcome!
 order: 1
 ---
 Hello there!   
-Thank you for your interest in Meet AI Mate. We would love to learn more about you. To sign up for our events, use this link [here!](https://forms.gle/gyWxgmjeABerxWhq8). To submit a potential topic for events, use this link [here!](https://forms.gle/g2etHXkDkXRjLmZGA). To find out more about us and what we do, feel free to snoope around the website.
+Thank you for your interest in Meet AI Mate. We would love to learn more about you. To sign up for our events, use this link [here](https://forms.gle/gyWxgmjeABerxWhq8). To submit a potential topic for events, use this link [here](https://forms.gle/g2etHXkDkXRjLmZGA). To find out more about us and what we do, feel free to snoope around the website.
