@@ -17,7 +17,3 @@ While we often have a topic pre-determined before events relating to artificial 
 
 ### Interested?
 Please check our calendar on the Event section of the page and sign up at [Registration!](https://forms.gle/gyWxgmjeABerxWhq8).
-
-### Photos
-Here are some photos from our previous events
-![alt-text-1](image1.png "https://github.com/meetaimate/meetaimate.github.io/blob/master/images/138472045_116252607021294_4212557235149691925_o.jpg?raw=true") ![alt-text-2](image2.png "[title-2](https://github.com/meetaimate/meetaimate.github.io/blob/master/images/131270150_106932661286622_849818025911643940_o.jpg?raw=true)")
