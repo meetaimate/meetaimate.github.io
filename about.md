@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ### Misson
 
-Meet AI Mate is a community-run organization for networking, facilitating ideas, and promoting research in Mathematics, Engineering, Business Analytics, and Artificial Intelligence. We run public seminar discussing theoretical and practical applications of state-of-the-art AI practice, hosting independent research groups, and consulting for business AI solutions. 
+Meet AI Mate is a community-run organization for networking, facilitating ideas, and promoting research in Mathematics, Engineering, Business Analytics, and Artificial Intelligence. We run public seminar discussing theoretical and practical applications of state-of-the-art AI practice, hosting independent research groups, and consulting business AI solutions. 
 
 ### Theory Meets Practice
 
