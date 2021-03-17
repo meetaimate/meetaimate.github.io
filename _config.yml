@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Meet AI Mate
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Artificial Imtelligence Passion Forum
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://scontent.fhan2-6.fna.fbcdn.net/v/t1.0-9/130273538_103092005004021_3228755146949780826_n.png?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=YFTSVOKa4VUAX9-YUgj&_nc_ht=scontent.fhan2-6.fna&oh=f54055f9f9194af369992a21784cd7f8&oe=6078FEFC
 
 #
 # Flags below are optional
@@ -19,14 +19,14 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook:https://www.facebook.com/meetaimate
   flickr:
-  github: barryclark/jekyll-now
+  github: 
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
