@@ -3,7 +3,8 @@ layout: page
 title: Photos
 permalink: /photos
 ---
-Some of our images from previous events
+Some of our images from previous events    
+
 ![Image1]({{ site.baseimg }}(`https://github.com/meetaimate/meetaimate.github.io/blob/master/images/131270150_106932661286622_849818025911643940_o.jpg?raw=true`)   
 
 ![Image2]({{ site.baseimg }}(`https://github.com/meetaimate/meetaimate.github.io/blob/master/images/138472045_116252607021294_4212557235149691925_o.jpg?raw=true)`)   
